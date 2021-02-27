@@ -1,4 +1,4 @@
-function repeat(num,str) {
+ function repeat(num,str) {
     let final = "";
 
     for (let i = 0; i < num; i++) {
